@@ -21,6 +21,29 @@
             "data-size": null,
             "note": "$100k grand prize, 50k/12.5k first/second auto-segmentation prize, $112.5k first letters prizes, $350k monthly progress prizes."
         },
+     {
+            "name": "AI Agents Global Challenge",
+            "url": "https://aiagentschallenge.com",
+            "type": "AI Agents",
+            "tags": [
+                "deeplearning",
+                "reasoning",
+                "generative",
+                 "subjective",   
+                "automl"
+            ],
+            "additional_urls": ["https://aiagentschallenge.com"],
+            "launched": null,
+            "registration-deadline": "1 Sept 2024",
+            "deadline": "1 Sept 2024",
+            "prize": "$1,000,000",
+            "platform": "Independent",
+            "sponsor": "MM01 AI",
+            "conference": null,
+            "conference-year": null,
+            "data-size": null,
+            "note": "Global challenge, 20 winners, various themes, largest AI Agents challenge."
+        },
         {
             "name": "AI Math Olympiad Progress Prize",
             "url": "https://www.reddit.com/r/AIMOprize/comments/1ay4aiu/progress_prize_pre_announcement/",
